@@ -1,7 +1,5 @@
 #pragma GCC optimize("03")
 /*
-name:       Cursed_Angel
-MSG:        Hello World I am a Cursed Angel
 */
 
 #include <bits/stdc++.h>
